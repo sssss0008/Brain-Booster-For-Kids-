@@ -1,0 +1,6 @@
+{
+  "name": "Brain Booster Kids",
+  "description": "Educational brain training app for kids aged 4-12 with memory games, focus exercises, logic puzzles, IQ challenges, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

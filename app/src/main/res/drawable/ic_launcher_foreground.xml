@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Brain left hemisphere -->
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M52,36 C52,31 46,28 41,29 C36,30 33,33 32,37 C28,37 24,40 24,45 C24,48 25,51 28,53 C25,56 25,61 27,65 C29,69 33,72 38,72 C41,72 44,71 47,68 C49,70 51,71 53,71 L53,36 Z" />
+    <!-- Brain right hemisphere -->
+    <path
+        android:fillColor="#FB7185"
+        android:pathData="M56,36 L56,71 C58,71 60,70 62,68 C65,71 68,72 71,72 C76,72 80,69 82,65 C84,61 84,56 81,53 C84,51 85,48 85,45 C85,40 81,37 77,37 C76,33 73,30 68,29 C63,28 57,31 56,36 Z" />
+    <!-- Brain folds highlights left -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M38,36 C34,39 36,44 42,44 C46,44 48,42 50,38" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M32,49 C30,53 33,58 39,57 C45,56 46,60 48,64" />
+    <!-- Brain folds highlights right -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M71,36 C75,39 73,44 67,44 C63,44 61,42 59,38" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M77,49 C79,53 76,58 70,57 C64,56 63,60 61,64" />
+    <!-- Center glowing lightbulb/idea spark -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,23 C50,23 47,26 47,30 C47,32.5 48.5,34.5 50.5,35.5 L50.5,38 L57.5,38 L57.5,35.5 C59.5,34.5 61,32.5 61,30 C61,26 58,23 54,23 Z" />
+    <path
+        android:fillColor="#FEF08A"
+        android:pathData="M52,39 L56,39 L55,41 L53,41 Z" />
+    <!-- Light rays -->
+    <path
+        android:strokeColor="#FDE047"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M54,18 L54,20" />
+    <path
+        android:strokeColor="#FDE047"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M44,22 L46,24" />
+    <path
+        android:strokeColor="#FDE047"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M64,22 L62,24" />
+    <!-- Cute star sparks -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M24,28 L25.5,32 L29.5,33.5 L25.5,35 L24,39 L22.5,35 L18.5,33.5 L22.5,32 Z" />
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M84,68 L85.5,71.5 L89,73 L85.5,74.5 L84,78 L82.5,74.5 L79,73 L82.5,71.5 Z" />
+</vector>
